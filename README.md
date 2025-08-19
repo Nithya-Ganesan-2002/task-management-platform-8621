@@ -1,1 +1,3 @@
-# task-management-platform-8621
+# Project Repository
+
+This is the initial README file for the project.
